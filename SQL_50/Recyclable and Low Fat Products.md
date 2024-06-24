@@ -1,6 +1,3 @@
-Sure, here is the problem description and solution formatted for inclusion in a README file:
-
----
 
 ## Problem Description
 
